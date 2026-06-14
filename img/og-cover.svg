@@ -1,22 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Flofer Cores Inc.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2b3138"/>
-      <stop offset="0.55" stop-color="#173a5a"/>
-      <stop offset="1" stop-color="#1c2127"/>
+      <stop offset="0" stop-color="#176996"/>
+      <stop offset="0.56" stop-color="#008c72"/>
+      <stop offset="1" stop-color="#123f3b"/>
     </linearGradient>
+    <pattern id="zig" width="72" height="36" patternUnits="userSpaceOnUse">
+      <path d="M0 36 18 0 36 36 54 0 72 36" fill="none" stroke="#ffffff" stroke-width="5" opacity=".18"/>
+      <path d="M0 18h72" stroke="#f6b21a" stroke-width="3" opacity=".18"/>
+    </pattern>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="0" y="600" width="1200" height="30" fill="#e0a106"/>
-  <rect x="0" y="600" width="1200" height="30" fill="#1c2127" opacity="0"/>
-  <g font-family="Arial, Helvetica, sans-serif" fill="#ffffff">
-    <rect x="80" y="120" width="92" height="92" rx="18" fill="#1f4e79"/>
-    <rect x="80" y="190" width="92" height="22" rx="5" fill="#c2410c"/>
-    <text x="126" y="186" text-anchor="middle" font-size="52" font-weight="800" fill="#ffffff">FC</text>
-    <text x="200" y="175" font-size="58" font-weight="800" letter-spacing="-1">Flofer Cores</text>
-    <text x="201" y="220" font-size="26" font-weight="600" fill="#cdd6df" letter-spacing="2">USED PARTS · SALVAGE · RECYCLING</text>
+  <rect width="1200" height="630" fill="url(#zig)"/>
+  <rect y="0" width="1200" height="24" fill="#4997d0"/>
+  <rect y="24" width="1200" height="16" fill="#ffffff"/>
+  <rect y="40" width="1200" height="24" fill="#4997d0"/>
+  <rect y="586" width="1200" height="18" fill="#d71920"/>
+  <rect y="604" width="1200" height="26" fill="#f6b21a"/>
+
+  <g transform="translate(80 112)">
+    <rect width="104" height="104" rx="22" fill="#ffffff" opacity=".95"/>
+    <rect y="78" width="104" height="26" rx="8" fill="#d71920"/>
+    <text x="52" y="67" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900" fill="#008c72">FC</text>
   </g>
-  <text x="80" y="360" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="#ffffff" letter-spacing="-1">Used parts. Salvage.</text>
-  <text x="80" y="448" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="#ffffff" letter-spacing="-1">Recycling. Since 2006.</text>
-  <text x="80" y="528" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="600" fill="#e7c66a">Family-run in Chicago &amp; the greater Chicagoland area — call or text.</text>
+
+  <g transform="translate(930 112)" fill="none" stroke-linecap="round">
+    <path d="M100 0c-55 8-87 50-75 99 10 40 45 65 86 63 53-2 95-45 93-98" stroke="#ffffff" stroke-width="14" opacity=".92"/>
+    <path d="M116 10c42 8 68 36 78 79-42-15-76-9-101 17" fill="#44b56b" stroke="none"/>
+    <path d="M80 115c-10 48-39 85-87 112 20-52 16-96-11-132" stroke="#f6b21a" stroke-width="12"/>
+    <path d="M124 109c-4 52-25 94-65 126 9-52-1-95-31-130" stroke="#ffffff" stroke-width="12" opacity=".85"/>
+    <path d="M67 83c27 25 61 34 102 27-18 25-57 36-92 22-33-13-52-41-53-72 16 0 30 8 43 23Z" fill="#d71920" stroke="none"/>
+    <circle cx="106" cy="33" r="6" fill="#132026" stroke="none"/>
+  </g>
+
+  <text x="80" y="295" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#f6b21a" letter-spacing="4">CHICAGO · GUATEMALAN ROOTS · SINCE 2006</text>
+  <text x="80" y="385" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900" fill="#ffffff" letter-spacing="-2">Used parts, salvage</text>
+  <text x="80" y="466" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900" fill="#ffffff" letter-spacing="-2">and honest local work.</text>
+  <text x="80" y="540" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="650" fill="#e8f6f4">Father-and-son business serving Chicago and the greater Chicagoland area.</text>
 </svg>

@@ -1,6 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Flofer Cores">
-  <rect width="64" height="64" rx="13" fill="#1f4e79"/>
-  <rect x="3" y="50" width="58" height="11" rx="3" fill="#c2410c"/>
-  <text x="32" y="42" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
-        font-size="34" font-weight="800" letter-spacing="-1" fill="#ffffff">FC</text>
+  <defs>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4997d0"/>
+      <stop offset="0.58" stop-color="#008c72"/>
+      <stop offset="1" stop-color="#123f3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#mark)"/>
+  <path d="M0 8h64" stroke="#ffffff" stroke-width="4" opacity=".95"/>
+  <path d="M0 56h64" stroke="#d71920" stroke-width="8"/>
+  <path d="M5 56h54" stroke="#f6b21a" stroke-width="3"/>
+  <path d="M44 18c6 2 10 6 12 12-6-2-11-1-15 2" fill="#44b56b"/>
+  <path d="M28 40c6 2 13 2 21 0-6 5-13 8-22 8" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity=".82"/>
+  <text x="29" y="39" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" letter-spacing="-1" fill="#ffffff">FC</text>
 </svg>
