@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- PLACEHOLDER DOMAIN: update https://www.flofercores.com to the real domain when live. -->
+<!-- PLACEHOLDER DOMAIN: update https://oogisoft.com/flofer-cores to the real domain when live. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.flofercores.com/</loc>
+    <loc>https://oogisoft.com/flofer-cores/</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.flofercores.com/used-parts.html</loc>
+    <loc>https://oogisoft.com/flofer-cores/used-parts.html</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.flofercores.com/salvage-recycling.html</loc>
+    <loc>https://oogisoft.com/flofer-cores/salvage-recycling.html</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.flofercores.com/cleanouts.html</loc>
+    <loc>https://oogisoft.com/flofer-cores/cleanouts.html</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.flofercores.com/about.html</loc>
+    <loc>https://oogisoft.com/flofer-cores/about.html</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.flofercores.com/contact.html</loc>
+    <loc>https://oogisoft.com/flofer-cores/contact.html</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
