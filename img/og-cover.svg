@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Flofer Cores Inc.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b3138"/>
+      <stop offset="0.55" stop-color="#173a5a"/>
+      <stop offset="1" stop-color="#1c2127"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="600" width="1200" height="30" fill="#e0a106"/>
+  <rect x="0" y="600" width="1200" height="30" fill="#1c2127" opacity="0"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#ffffff">
+    <rect x="80" y="120" width="92" height="92" rx="18" fill="#1f4e79"/>
+    <rect x="80" y="190" width="92" height="22" rx="5" fill="#c2410c"/>
+    <text x="126" y="186" text-anchor="middle" font-size="52" font-weight="800" fill="#ffffff">FC</text>
+    <text x="200" y="175" font-size="58" font-weight="800" letter-spacing="-1">Flofer Cores</text>
+    <text x="201" y="220" font-size="26" font-weight="600" fill="#cdd6df" letter-spacing="2">USED PARTS · SALVAGE · RECYCLING</text>
+  </g>
+  <text x="80" y="360" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="#ffffff" letter-spacing="-1">Used parts. Salvage.</text>
+  <text x="80" y="448" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="#ffffff" letter-spacing="-1">Recycling. Since 2006.</text>
+  <text x="80" y="528" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="600" fill="#e7c66a">Family-run in Chicago &amp; the greater Chicagoland area — call or text.</text>
+</svg>

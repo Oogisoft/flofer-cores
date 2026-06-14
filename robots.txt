@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace the domain below once the real one is live.
+Sitemap: https://www.flofercores.com/sitemap.xml
